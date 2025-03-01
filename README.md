@@ -77,8 +77,7 @@ The plugin uses PrismJS for syntax highlighting in the file viewer component. Th
 If you encounter any issues or have questions, please:
 
 - Check the documentation
-- Contact support at support@example.com
-
+- Contact support at support@cyberadvising.it
 ## License
 
 This plugin is licensed under the GPL v2 or later.
